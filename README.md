@@ -1,3 +1,3 @@
 # KMeans
 
-Actual data set used ColorHistogram from UCI
+Actual data set used is "ColorHistogram" from UCI
